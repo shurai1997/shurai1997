@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shurai1997
-- 📫 Reach me at shubhaam.rai@capgemini.com
+- 📫 Reach me at shubham.rai@capgemini.com
 
 <!---
 shurai1997/shurai1997 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
